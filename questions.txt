@@ -1,0 +1,78 @@
+O que é a Digital Innovation One?
+A Digital Innovation One é uma comunidade com +450 mil desenvolvedores de software que acelera gratuitamente a sua carreira através de cursos, bootcamps, projetos práticos e desafios para você conquistar as melhores oportunidades profissionais nas empresas mais inovadoras do mercado de trabalho.
+
+Por que somos gratuitos?
+A Digital Innovation One acredita que a democratização do ensino de tecnologia e a formação da nova geração de desenvolvedores de software impacta positivamente o desenvolvimento socioeconômico mundial. Estamos revolucionando a educação online com a democratização e inclusão através do ensino online gratuito e de qualidade, juntamente com as empresas mais inovadoras do mercado que procuram pelos desenvolvedores de software mais talentosos.
+
+Como a Digital Innovation One me ajuda a conseguir um emprego?
+O primeiro passo é realizar o cadastro e preencher o seu currículo. Através dos nossos bootcamps e cursos gratuitos, além de desafios e projetos práticos, você aprende as tecnologias mais utilizadas no mercado de trabalho e se desenvolve profissionalmente. Conectamos as empresas mais inovadoras em nosso ecossistema e recomendamos os desenvolvedores de software mais talentosos que estudam conosco para as oportunidades de emprego nelas.
+
+Quais são os pré-requisitos para conquistar um emprego através da Digital Innovation One?
+Para conquistar um emprego, você deve realizar o cadastro gratuito na nossa plataforma e preencher todos os campos do seu currículo. Com o currículo preenchido você já poderá participar dos bootcamps e também receberá desafios das empresas parceiras. Concluindo o bootcamp você ganhará destaque nas pesquisas das empresas, e caso a sua performance no bootcamp ou em um desafio de empresa parceira esteja dentro dos 5% melhores desenvolvedores de software, a nossa equipe de Talent Success entrará em contato com você para lhe preparar para ser recomendado para oportunidades nas empresas mais inovadoras do mercado.
+
+Preciso preencher todos os campos do meu currículo para conquistar uma oportunidade?
+Sim. Para ser recomendado e participar dos processos seletivos das empresas que contratam através da Digital Innovation One, é necessário ter o seu currículo totalmente preenchido.
+
+Como posso me candidatar para uma vaga?
+Ao finalizar um bootcamp e ter o seu currículo preenchido, você já estará apto a ser recomendado para as empresas que contratam através da Digital Innovation One. Porém, você também pode acessar o menu “Vagas” e se candidatar para todas as oportunidades abertas, basta ter o seu currículo totalmente preenchido.
+
+O que são os bootcamps?
+Um bootcamp é um conjunto de atividades educacionais imersivas que acelera o desenvolvimento de novas habilidades técnicas e comportamentais. No nosso bootcamp você aprende através de cursos e atividades práticas online criados pelos principais especialistas do mercado.
+
+Os bootcamps possuem certificado?
+Sim. Os certificados são gratuitos, gerados ao finalizar todos os cursos e preencher o seu currículo.
+
+Os bootcamps são gratuitos?
+Sim. Todos os bootcamps são gratuitos e com certificado grátis.
+
+Quais são as empresas que podem me contratar?
+A Digital Innovation One possui diversas empresas parceiras que contratam profissionais das mais variadas tecnologias, cidades e níveis (Estágio, Júnior, Pleno, Sênior). Para participar dos processos seletivos, basta ter o seu currículo preenchido e estar desenvolvendo suas habilidades junto a DIO.
+
+As vagas são presenciais ou remotas?
+Depende da vaga. Esse é um critério imposto pela própria empresa contratante. Na nossa plataforma, você consegue ver todas as vagas (clicando no menu “Vagas”) com todos os detalhes de cada uma.
+
+Como posso ganhar R$ 350,00?
+Ao convidar um amigo e o mesmo for contratado por uma das empresas parceiras da Digital Innovation One, você será recompensado com R$ 350,00. A cada contratação de um amigo indicado, o valor é acumulado. Por exemplo, 10 amigos contratados = R$ 3500,00. Basta informar o e-mail ou utilizar o seu link personalizado disponível no menu “Ganhe R$ 350,00” após logado na plataforma.
+
+Os cursos são gratuitos?
+Sim. Todos os cursos são gratuitos, do começo ao fim, produzidos pela Digital Innovation One com os melhores profissionais do mercado de trabalho.
+
+Os cursos possuem certificado?
+Sim. Todos os cursos possuem certificado de conclusão e podem ser gerados ao finalizar todas as aulas do curso e obter o número mínimo de acertos exigido nos questionários. Os certificados são gratuitos, assim como os cursos.
+
+Por onde começo?
+Com base nas tecnologias escolhidas após realizar o seu cadastro, nossa plataforma irá recomendar automaticamente o seu ponto de partida. Os cursos recomendados ficam disponíveis na tela inicial. Além disso, você também pode se candidatar às vagas, no menu superior “Vagas”, ou iniciar um bootcamp, clicando no menu “Bootcamps”.
+
+Os cursos são online ou presenciais?
+Todos os cursos são online para que você possa fazer no seu ritmo. Disponíveis 24 horas por dia e 7 dias por semana.
+
+Como posso tirar minhas dúvidas?
+Todas as semanas, são realizados projetos práticos ao vivo com especialistas do mercado de trabalho. São transmissões ao vivo onde você pode tirar todas as suas dúvidas.
+
+O que são os projetos práticos?
+Os projetos práticos são atividades educacionais criadas por especialistas do mercado para você exercitar a sua criatividade, desenvolver códigos e construir o seu portfólio, ajudando a acelerar o seu aprendizado. Você tem a opção de acessar a nossa biblioteca de projetos ou participar de projetos práticos ao vivo, o que lhe traz a oportunidade de tirar dúvidas e interagir com a comunidade.
+
+Por que devo participar dos projetos práticos ao vivo?
+Através dos projetos práticos ao vivo, você pode tirar todas as suas dúvidas referentes ao desenvolvimento de software e se conectar com outros desenvolvedores que também fazem parte da nossa comunidade.
+
+O que são os desafios?
+Os desafios são perguntas e respostas sobre tecnologia para que você treine e aprenda com outros desenvolvedores da comunidade e esteja preparado para os processos seletivos das empresas que contratam através da Digital Innovation One.
+
+Por que desafiar outros desenvolvedores?
+Os desafios são para que você possa treinar e desenvolver suas habilidades junto a outros desenvolvedores, por isso, reforçamos que você deve utilizar os desafios como uma atividade prática para reforçar os seus conhecimentos e se divertir com os outros dev’s da nossa comunidade.
+
+Como desafiar outros desenvolvedores?
+Basta realizar o seu cadastro ou fazer login, acessar o menu superior “Desafie”, selecionar uma tecnologia e escolher qual dev quer desafiar. Não se preocupe, você não precisa desafiar apenas quem você conhece ;)
+
+Como funciona o ranking?
+O ranking é semanal e apresenta os desenvolvedores de software que mais estão aprendendo e evoluindo a sua experiência com a Digital Innovation One. Todos os usuários cadastrados podem participar e ganham posições ao somar pontos de experiência recebidos através da conclusão de aulas, projetos práticos e desafios.
+
+Como posso ganhar experiência para subir no ranking?
+Cada tipo de atividade que você realiza dentro da plataforma, você ganha pontos de experiência (xp). Basta que você finalize uma aula de um curso ou bootcamp (+40xp), desafie outros desenvolvedores de software da comunidade (o número de xp varia a cada novo desafio) ou conclua projetos práticos (+2xp). Você pode acompanhar a sua evolução acessando o menu "Ranking".
+
+O que ganham os primeiros colocados do ranking?
+Os 3 primeiros colocados do ranking ganham um badge (medalha) especial em seu perfil, destaque em nossa comunidade e também maior relevância na pesquisa realizada pelas empresas parceiras que estão à procura dos desenvolvedores de software mais talentosos.
+
+Como participo dos desafios para as oportunidades nas empresas parceiras?
+Os desafios das empresas parceiras são enviados para o seu e-mail cadastrado e você precisa estar com o seu currículo preenchido completamente para recebê-los. Todas as perguntas são respondidas através da internet e caso você esteja dentro dos 5% melhores desenvolvedores de software que participaram do desafio, a nossa equipe de Talent Success entrará em contato com você para lhe preparar para ser recomendado para oportunidades nas empresas mais inovadoras do mercado.
+
